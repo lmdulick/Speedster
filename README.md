@@ -1,6 +1,8 @@
 # Speedster
 Author: Lauren Dulick
 
+E-Portfolio: https://ldulick17.wixsite.com/e-portfolio
+
 <img width="555" alt="image" src="https://github.com/lmdulick/Speedster/assets/116673406/4488cf53-c3fb-4195-b8c8-60c9d32f47cd">
 
 Speedster is my first solo coding project, a creation over two weeks during my freshman year winter break (December 2022). I wanted to expand upon my knowledge gained from COP3502C Programming Fundamentals I, whilst challenging myself to add in a new element: animation. I successfully programmed a total of twelve screens in the language Python using the import Pygame.
